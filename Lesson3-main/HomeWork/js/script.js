@@ -2,16 +2,16 @@
 // У вас є масив об’єктів fruts, і в кожному з них є name
 // Напишіть код, який перетворює їх в масив імен.
 
-const fruts = [
-  { id: 0, name: "Apple" },
-  { id: 1, name: "Tomat" },
-  { id: 2, name: "Cherry" },
-  { id: 3, name: "Orange" },
-];
+// const fruts = [
+//   { id: 0, name: "Apple" },
+//   { id: 1, name: "Tomat" },
+//   { id: 2, name: "Cherry" },
+//   { id: 3, name: "Orange" },
+// ];
 
-const names = fruts.map((item) => item.name);
-let name1 = names.join(", ");
-console.log(name1);
+// const names = fruts.map((item) => item.name);
+// let name1 = names.join(", ");
+// console.log(name1);
 
 
 //  -- 2 --
